@@ -5,7 +5,8 @@ Markdown
 <div align="center">
     <img src="https://img.shields.io/badge/OSINT_Professional-Toolkit-363636?style=for-the-badge&logo=github&logoColor=fdd835" alt="OSINT Badge">
     <img src="https://img.shields.io/badge/Platforms-22%2B_Tools-363636?style=for-the-badge&logo=python&logoColor=4caf50" alt="Tools Badge">
-    <img src="https://img.shields.io/github/stars/alfanrizkyw/Dark-Cat-Suite-OSINT---by-Paan?style=for-the-badge&color=fdd835" alt="GitHub Stars">
+    <img src="https://img.shields.io/badge/Python-3.8+-4caf50?style=for-the-badge&logo=python&logoColor=white" alt="Python Version">
+    <img src="https://img.shields.io/badge/Cyber%20Security-HACKING-444444?style=for-the-badge&logo=gitkraken&logoColor=red" alt="Hacking Badge">
 </div>
 
 ## 😼 Digital Intelligence untuk Investigasi Siber
@@ -34,16 +35,17 @@ Mulailah dengan Dark Cat dalam tiga langkah cepat.
 
 ### 1. Kloning Repositori
 
-```bash
 git clone [https://github.com/alfanrizkyw/Dark-Cat-Suite-OSINT---by-Paan.git](https://github.com/alfanrizkyw/Dark-Cat-Suite-OSINT---by-Paan.git)
+
 cd Dark-Cat-Suite-OSINT---by-Paan
+
+
 2. Instal Dependensi
 Pastikan Anda menggunakan Python 3.8+.
 
-Bash
-
 pip install -r requirements.txt
-3. Jalankan Suite
+
+4. Jalankan Suite
 Akses menu interaktif 22+ alat.
 
 Bash
