@@ -21,6 +21,7 @@ Run
 bash
 python dark_cat_osint.py
 
+
 📋 What is Dark Cat?
 
 Dark Cat OSINT Suite is a comprehensive digital intelligence platform featuring 22+ advanced tools for cybersecurity professionals, investigators, and researchers. With a sleek terminal interface and real-time animations, it delivers enterprise-grade OSINT capabilities.
@@ -52,7 +53,6 @@ Generate reports with comprehensive findings
 
 ⚡ Example Commands
 
-bash
 # Install & run
 git clone https://github.com/alfanrizkyw/Dark-Cat-Suite-OSINT---by-Paan.git
 
