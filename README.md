@@ -7,34 +7,32 @@ https://img.shields.io/badge/Platform-Windows%2520%257C%2520Linux%2520%257C%2520
 Advanced Open Source Intelligence Gathering Tool
 Unleash the power of comprehensive digital investigation
 
-Features • Installation • Usage • Tools • Demo • Disclaimer
-
 </div>
 🌟 Overview
-Dark Cat OSINT Suite adalah alat investigasi intelijen sumber terbuka (OSINT) yang sangat canggih dan komprehensif yang dirancang untuk profesional keamanan siber, peneliti, dan investigator digital. Dengan antarmuka terminal yang elegan dan animasi yang smooth, alat ini menyediakan lebih dari 20 tools OSINT yang benar-benar berfungsi dan menghasilkan data real-time.
+Dark Cat OSINT Suite is a sophisticated and comprehensive open source intelligence (OSINT) tool designed for cybersecurity professionals, researchers, and digital investigators. With an elegant terminal interface and smooth animations, this tool provides over 20 fully functional OSINT tools that deliver real-time data.
 
-Dibangun dengan Python dan mengintegrasikan berbagai API serta teknik OSINT terbaik, Dark Cat memberikan kemampuan investigasi digital tingkat enterprise dalam paket yang mudah digunakan.
+Built with Python and integrating various APIs and OSINT techniques, Dark Cat offers enterprise-level digital investigation capabilities in an easy-to-use package.
 
 🚀 Features
-🔍 Core Capabilities
-Real-time Animation - Animasi kucing yang smooth dengan multiple frames
+Core Capabilities
+Real-time Animation - Smooth cat animation with multiple frames
 
-Modern Terminal UI - Interface berwarna dengan desain yang rapi dan profesional
+Modern Terminal UI - Colored interface with neat and professional design
 
-Multi-threading - Performa tinggi dengan concurrent processing
+Multi-threading - High performance with concurrent processing
 
-Comprehensive Reporting - Ekspor hasil investigasi ke format terstruktur
+Comprehensive Reporting - Export investigation results to structured format
 
-🛠️ Technical Features
-22+ OSINT Tools - Koleksi lengkap alat investigasi digital
+Technical Features
+22+ OSINT Tools - Complete collection of digital investigation tools
 
-API Integration - Terintegrasi dengan berbagai layanan OSINT publik
+API Integration - Integrated with various public OSINT services
 
-Real-time Data - Hasil langsung dari sumber terpercaya
+Real-time Data - Direct results from trusted sources
 
-Data Persistence - Penyimpanan data antar sesi investigasi
+Data Persistence - Data storage between investigation sessions
 
-Error Handling - Sistem penanganan error yang robust
+Error Handling - Robust error handling system
 
 📋 Prerequisites
 System Requirements
@@ -92,7 +90,7 @@ cd Dark-Cat-Suite-OSINT---by-Paan
 # Install dependencies
 pip3 install colorama requests python-whois dnspython beautifulsoup4 phonenumbers urllib3
 📦 Dependencies
-Package yang diperlukan:
+Required packages:
 
 Package	Version	Purpose
 colorama	>=0.4.6	Terminal coloring
@@ -112,9 +110,16 @@ cd Dark-Cat-Suite-OSINT---by-Paan
 python dark_cat_osint.py
 # or
 python3 dark_cat_osint.py
-Menu Navigation
-Setelah menjalankan tool, Anda akan melihat menu utama dengan 22 pilihan:
+First Run
+After first run, the tool will:
 
+Display smooth cat animation
+
+Show "Dark Cat by Paan" banner
+
+Display main menu with 22 OSINT tools
+
+Menu Navigation
 text
 ═╡ DARK CAT OSINT SUITE - SUPER ADVANCED ╞═
    1.  IP Address Lookup Complete
@@ -127,16 +132,27 @@ text
    8.  Network Scanner Pro
    9.  Web Crawling Intelligence
    10. Image & File OSINT
-   ... [dan seterusnya]
+   11. Username Search Across Platforms
+   12. Business Intelligence
+   13. Geolocation Advanced Tracking
+   14. Digital Footprint Analysis
+   15. Threat Intelligence
+   16. Data Breach Check
+   17. SSL Certificate Analysis
+   18. Subdomain Discovery
+   19. Port Scanner Advanced
+   20. Comprehensive Report Generator
+   21. Real-time Monitoring
+   22. Exit
 Navigation Shortcuts:
 
-R - Refresh animasi
+R - Refresh animation
 
 C - Clear collected data
 
 Q - Quit program
 
-1-22 - Pilih tool sesuai angka
+1-22 - Select tool by number
 
 🛠️ Tools Overview
 1. IP Address Lookup Complete
@@ -293,12 +309,12 @@ Real-time alert system
 🎥 Demo
 Running the Tool
 bash
-# Setelah instalasi, jalankan:
+# After installation, run:
 python dark_cat_osint.py
 Sample Workflow
-Start dengan IP Lookup (Menu 1)
+Start with IP Lookup (Menu 1)
 
-Lanjut ke Domain Investigation (Menu 2)
+Continue to Domain Investigation (Menu 2)
 
 Check Social Media (Menu 4)
 
@@ -325,88 +341,86 @@ Common Issues & Solutions
 Module Not Found Error
 
 bash
-# Pastikan semua dependencies terinstall
+# Make sure all dependencies are installed
 pip install --force-reinstall -r requirements.txt
 Python Version Error
 
 bash
-# Gunakan Python 3.8 atau lebih tinggi
+# Use Python 3.8 or higher
 python --version
 Permission Errors (Linux/macOS)
 
 bash
-# Gunakan virtual environment atau install dengan --user
+# Use virtual environment or install with --user
 pip install --user -r requirements.txt
 Network Timeout
 
 bash
-# Tool akan otomatis retry, atau periksa koneksi internet
+# Tool will automatically retry, or check internet connection
 Performance Tips
-Gunakan koneksi internet yang stabil
+Use stable internet connection
 
-Untuk scanning besar, gunakan di jaringan yang tidak restricted
+For large scanning, use on unrestricted networks
 
-Simpan report secara berkala dengan Menu 20
+Save reports regularly with Menu 20
 
 🤝 Contributing
-Kontribusi sangat diterima! Untuk berkontribusi:
+Contributions are welcome! To contribute:
 
-Fork repository ini
+Fork this repository
 
-Buat feature branch (git checkout -b feature/feature-name)
+Create feature branch (git checkout -b feature/feature-name)
 
 Commit changes (git commit -m 'Add some feature')
 
-Push ke branch (git push origin feature/feature-name)
+Push to branch (git push origin feature/feature-name)
 
-Buat Pull Request
+Create Pull Request
 
 📄 License
-Project ini dilisensikan di bawah MIT License - lihat file LICENSE untuk detail lengkap.
+This project is licensed under MIT License - see LICENSE file for full details.
 
 ⚠️ Disclaimer
-Penggunaan yang Benar
+Proper Usage
 text
 DARK CAT OSINT SUITE - LEGAL DISCLAIMER
 
-Tool ini dirancang untuk:
-✓ Investigasi legal dan authorized
-✓ Security research dan penetration testing (dengan izin)
-✓ Educational purposes dan pembelajaran
+This tool is designed for:
+✓ Legal and authorized investigations
+✓ Security research and penetration testing (with permission)
+✓ Educational purposes and learning
 ✓ Personal security assessment
 ✓ Bug bounty programs
 
-PENGGUNAAN YANG DILARANG:
-✗ Illegal hacking dan unauthorized access
-✗ Pelanggaran privasi dan harassment
-✗ Aktivitas ilegal lainnya
-✗ Melanggar terms of service platform
+PROHIBITED USES:
+✗ Illegal hacking and unauthorized access
+✗ Privacy violations and harassment
+✗ Other illegal activities
+✗ Violating platform terms of service
 
-Pengguna bertanggung jawab penuh untuk:
-- Mematuhi hukum dan regulasi setempat
-- Menghormati terms of service platform
-- Menghormati privasi dan hak orang lain
-- Menggunakan tool secara etis dan legal
+Users are fully responsible for:
+- Complying with local laws and regulations
+- Respecting platform terms of service
+- Respecting privacy and rights of others
+- Using the tool ethically and legally
 
-Developer tidak bertanggung jawab atas penyalahgunaan tool.
-Pedoman Etika
-Selalu dapatkan autorisasi sebelum melakukan investigasi
+Developer is not responsible for tool misuse.
+Ethical Guidelines
+Always get authorization before conducting investigations
 
-Hormati privasi dan batasan hukum
+Respect privacy and legal boundaries
 
-Gunakan untuk tujuan security yang legitimate saja
+Use for legitimate security purposes only
 
-Patuhi ToS platform dan rate limits
+Comply with platform ToS and rate limits
 
-Laporkan vulnerability secara responsible
+Report vulnerabilities responsibly
 
-Dengan menggunakan tool ini, Anda menyetujui untuk menggunakan nya secara bertanggung jawab, legal, dan etis.
+By using this tool, you agree to use it responsibly, legally, and ethically.
 
 <div align="center">
-⭐ Jika project ini membantu, jangan lupa berikan star di repository!
+⭐ If this project helps you, don't forget to give it a star!
 
-Dibuat dengan ❤️ oleh Paan - Advancing Cybersecurity Intelligence
+Made with ❤️ by Paan - Advancing Cybersecurity Intelligence
 
 https://img.shields.io/badge/%F0%9F%9B%A1%EF%B8%8F-Use%2520Responsibly-blue?style=for-the-badge
-
-</div>
