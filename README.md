@@ -10,6 +10,9 @@ Markdown
     <img src="https://img.shields.io/badge/🐱-Dark%20Cat%20OSINT-8B5CF6?style=for-the-badge&logo=cat&logoColor=white">
 </div>
 
+  /_/
+( •.• ) Scanning...
+/ > 🖥️
 
 ## 😼 Digital Intelligence untuk Investigasi Siber
 
