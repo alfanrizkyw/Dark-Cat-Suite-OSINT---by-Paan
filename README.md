@@ -10,8 +10,7 @@ Markdown
 <img src="https://img.shields.io/badge/🐱-Dark%20Cat%20OSINT-8B5CF6?style=for-the-badge&logo=cat&logoColor=white">
 </div>
 
-
-
+--- 
 ## 😼 Digital Intelligence for Cyber ​​Investigations
 
 Dark Cat OSINT Suite is an advanced digital intelligence platform designed for investigators, researchers, and cybersecurity professionals. With over 22 integrated advanced tools, it delivers in-depth reconnaissance capabilities through an elegant, animated real-time terminal interface.
