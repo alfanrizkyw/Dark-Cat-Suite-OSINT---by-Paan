@@ -1,58 +1,70 @@
-🐱‍👤 Dark Cat OSINT Suite
-Platform Intelijen Digital Canggih | Toolkit OSINT Profesional untuk Investigasi Keamanan Siber
+Markdown
 
-🚀 Ikhtisar
-Dark Cat OSINT Suite adalah platform intelijen digital komprehensif yang menampilkan 22+ alat canggih untuk profesional keamanan siber, penyelidik, dan peneliti. Dengan antarmuka terminal yang elegan dan animasi real-time, alat ini menyediakan kapabilitas OSINT tingkat perusahaan.
+# 🐱‍👤 Dark Cat OSINT Suite
 
-🛠️ Fitur Utama
-🔍 IP & Domain Intelligence: Analisis mendalam informasi IP dan domain.
+<div align="center">
+    <h3>Platform Intelijen Digital Canggih</h3>
+    <h1>Toolkit OSINT Profesional untuk Investigasi Keamanan Siber</h1>
+    <a href="https://github.com/alfanrizkyw/Dark-Cat-Suite-OSINT---by-Paan/stargazers">
+        <img alt="GitHub Stars" src="https://img.shields.io/github/stars/alfanrizkyw/Dark-Cat-Suite-OSINT---by-Paan?style=for-the-badge&color=fed330">
+    </a>
+    <a href="https://github.com/alfanrizkyw/Dark-Cat-Suite-OSINT---by-Paan/issues">
+        <img alt="GitHub Issues" src="https://img.shields.io/github/issues/alfanrizkyw/Dark-Cat-Suite-OSINT---by-Paan?style=for-the-badge&color=ff6b6b">
+    </a>
+    <img alt="Python Version" src="https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python">
+</div>
 
-📧 Email Analysis & Verification: Verifikasi dan analisis alamat email.
+---
 
-📱 Social Media Reconnaissance: Pengintaian platform media sosial.
+## 🚀 Ikhtisar
 
-📞 Phone Number Intelligence: Intelijen berbasis nomor telepon.
+**Dark Cat OSINT Suite** adalah platform intelijen digital **komprehensif** yang dirancang untuk penyelidik modern.
 
-🌐 Website & Network Scanning: Pemindaian situs web dan jaringan.
+Menyediakan **22+ alat OSINT canggih** melalui antarmuka terminal yang elegan dan profesional, alat ini memberikan kapabilitas intelijen tingkat perusahaan kepada profesional keamanan siber dan peneliti.
 
-🕵️ Digital Footprint Analysis: Analisis jejak digital.
+### ✨ Fitur Utama
 
-📊 Comprehensive Reporting: Pembuatan laporan temuan yang komprehensif.
+| Kategori | Deskripsi |
+| :--- | :--- |
+| **🔍 IP & Domain** | Intelijen mendalam informasi IP, Domain, dan WHOIS. |
+| **📧 Email & Phone** | Analisis & Verifikasi Email, Intelijen Nomor Telepon. |
+| **📱 Social Media** | Pengintaian jejak digital dan profil media sosial. |
+| **🌐 Web Scanning** | Pemindaian situs web, jaringan, dan deteksi teknologi. |
+| **📊 Pelaporan** | Fitur analisis jejak digital dan pembuatan laporan temuan. |
 
-⚙️ Mulai Cepat
-Instalasi
-Bash
+---
 
+## ⚙️ Mulai Cepat (Quick Start)
+
+### 1. Instalasi & Dependensi
+
+Kloning repositori dan instal semua kebutuhan yang diperlukan.
+
+```bash
 # Kloning repositori
-git clone https://github.com/alfanrizkyw/Dark-Cat-Suite-OSINT---by-Paan.git
+git clone [https://github.com/alfanrizkyw/Dark-Cat-Suite-OSINT---by-Paan.git](https://github.com/alfanrizkyw/Dark-Cat-Suite-OSINT---by-Paan.git)
+
+# Masuk ke direktori
 cd Dark-Cat-Suite-OSINT---by-Paan
 
-# Instal dependensi
+# Instal dependensi Python
 pip install -r requirements.txt
-Jalankan
+2. Jalankan Alat
+Jalankan skrip utama untuk mengakses menu interaktif 22+ alat.
+
 Bash
 
 python dark_cat_osint.py
-Penggunaan
-Jalankan alat: python dark_cat_osint.py
+🎯 Cara Penggunaan
+Jalankan python dark_cat_osint.py.
 
-Pilih dari 22+ alat OSINT di menu interaktif.
+Pilih alat yang Anda butuhkan dari menu interaktif.
 
-Ikuti petunjuk untuk analisis target.
+Masukkan target (IP, Domain, Email, dll.) saat diminta.
 
-Buat laporan dengan temuan lengkap.
+Lihat hasil analisis dan generate laporan komprehensif.
 
-📦 Persyaratan
-Python 3.8+
+⚠️ Disclaimer
+Penggunaan yang Bertanggung Jawab: Alat ini ditujukan hanya untuk investigasi yang sah, penetration testing yang berizin, dan tujuan pendidikan. Pengguna bertanggung jawab penuh atas kepatuhan terhadap semua hukum dan peraturan lokal saat menggunakan Dark Cat OSINT Suite.
 
-Koneksi internet
-
-Pustaka Python: requests, python-whois, dnspython, beautifulsoup4, phonenumbers
-
-<div align="center"> 💫 Toolkit OSINT profesional untuk penyelidik modern
-
-Dibangun dengan ❤️ oleh Paan
-
-</div>
-
-⚠️ Disclaimer: Gunakan hanya untuk investigasi yang sah dan tujuan legal. Pengguna bertanggung jawab untuk mematuhi hukum dan peraturan setempat.
+<div align="center"> Built with ❤️ by Paan </div>
