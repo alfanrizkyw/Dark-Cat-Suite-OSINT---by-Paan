@@ -7,21 +7,10 @@ Markdown
     <img src="https://img.shields.io/badge/Platforms-22%2B_Tools-363636?style=for-the-badge&logo=python&logoColor=4caf50" alt="Tools Badge">
     <img src="https://img.shields.io/badge/Python-3.8+-4caf50?style=for-the-badge&logo=python&logoColor=white" alt="Python Version">
     <img src="https://img.shields.io/badge/Cyber%20Security-HACKING-444444?style=for-the-badge&logo=gitkraken&logoColor=red" alt="Hacking Badge">
+    <img src="https://img.shields.io/badge/🐱-Dark%20Cat%20OSINT-8B5CF6?style=for-the-badge&logo=cat&logoColor=white">
 </div>
 
-           .'\   /`.
-         .'.-.`-'.-.`.
-    ..._:   .-. .-.   :_...
-  .'    '-.(o ) (o ).-'    `.
- :  _    _ _`~(_)~`_ _    _  :
-:  /:   ' .-=_   _=-. `   ;\  :
-:   :|-.._  '     `  _..-|:   :
- :   `:| |`:-:-.-:-:'| |:'   :
-  `.   `.| | | | | | |.'   .'
-    `.   `-:_| | |_:-'   .'
-      `-._   ````    _.-'
-          ``-------''
-          
+
 ## 😼 Digital Intelligence untuk Investigasi Siber
 
 **Dark Cat OSINT Suite** adalah platform intelijen digital **tingkat lanjut** yang dirancang untuk penyelidik, peneliti, dan profesional keamanan siber. Dengan **22+ alat canggih** terintegrasi, ia memberikan kemampuan pengintaian (*reconnaissance*) mendalam melalui antarmuka terminal yang elegan dan beranimasi *real-time*.
