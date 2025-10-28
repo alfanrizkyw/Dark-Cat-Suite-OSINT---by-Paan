@@ -7,7 +7,6 @@ Professional OSINT toolkit for cybersecurity investigations
 🚀 Quick Start
 Installation
 
-bash
 # Clone repository
 
 git clone https://github.com/alfanrizkyw/Dark-Cat-Suite-OSINT---by-Paan.git
