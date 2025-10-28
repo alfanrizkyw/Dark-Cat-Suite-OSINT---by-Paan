@@ -39,13 +39,12 @@ git clone [https://github.com/alfanrizkyw/Dark-Cat-Suite-OSINT---by-Paan.git](ht
 
 cd Dark-Cat-Suite-OSINT---by-Paan
 
-
-2. Instal Dependensi
+### 2. Instal Dependensi
 Pastikan Anda menggunakan Python 3.8+.
 
 pip install -r requirements.txt
 
-4. Jalankan Suite
+### 3. Jalankan Suite
 Akses menu interaktif 22+ alat.
 
 python dark_cat_osint.py
