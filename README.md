@@ -1,80 +1,58 @@
 🐱‍👤 Dark Cat OSINT Suite
+Platform Intelijen Digital Canggih | Toolkit OSINT Profesional untuk Investigasi Keamanan Siber
 
-Advanced Digital Intelligence Platform
-Professional OSINT toolkit for cybersecurity investigations
+🚀 Ikhtisar
+Dark Cat OSINT Suite adalah platform intelijen digital komprehensif yang menampilkan 22+ alat canggih untuk profesional keamanan siber, penyelidik, dan peneliti. Dengan antarmuka terminal yang elegan dan animasi real-time, alat ini menyediakan kapabilitas OSINT tingkat perusahaan.
 
-</div>
-🚀 Quick Start
-Installation
+🛠️ Fitur Utama
+🔍 IP & Domain Intelligence: Analisis mendalam informasi IP dan domain.
 
-# Clone repository
+📧 Email Analysis & Verification: Verifikasi dan analisis alamat email.
 
+📱 Social Media Reconnaissance: Pengintaian platform media sosial.
+
+📞 Phone Number Intelligence: Intelijen berbasis nomor telepon.
+
+🌐 Website & Network Scanning: Pemindaian situs web dan jaringan.
+
+🕵️ Digital Footprint Analysis: Analisis jejak digital.
+
+📊 Comprehensive Reporting: Pembuatan laporan temuan yang komprehensif.
+
+⚙️ Mulai Cepat
+Instalasi
+Bash
+
+# Kloning repositori
 git clone https://github.com/alfanrizkyw/Dark-Cat-Suite-OSINT---by-Paan.git
-
 cd Dark-Cat-Suite-OSINT---by-Paan
 
-# Install dependencies
-
+# Instal dependensi
 pip install -r requirements.txt
-
-Run
-bash
-python dark_cat_osint.py
-
-
-📋 What is Dark Cat?
-
-Dark Cat OSINT Suite is a comprehensive digital intelligence platform featuring 22+ advanced tools for cybersecurity professionals, investigators, and researchers. With a sleek terminal interface and real-time animations, it delivers enterprise-grade OSINT capabilities.
-
-🛠️ Core Features
-
-🔍 IP & Domain Intelligence
-
-📧 Email Analysis & Verification
-
-📱 Social Media Reconnaissance
-
-📞 Phone Number Intelligence
-
-🌐 Website & Network Scanning
-
-🕵️ Digital Footprint Analysis
-
-📊 Comprehensive Reporting
-
-🎯 Quick Usage
-Run the tool: python dark_cat_osint.py
-
-Choose from 22+ OSINT tools in the interactive menu
-
-Follow prompts for target analysis
-
-Generate reports with comprehensive findings
-
-⚡ Example Commands
-
-# Install & run
-git clone https://github.com/alfanrizkyw/Dark-Cat-Suite-OSINT---by-Paan.git
-
-cd Dark-Cat-Suite-OSINT---by-Paan
-
-pip install -r requirements.txt
+Jalankan
+Bash
 
 python dark_cat_osint.py
+Penggunaan
+Jalankan alat: python dark_cat_osint.py
 
-📦 Requirements
+Pilih dari 22+ alat OSINT di menu interaktif.
 
+Ikuti petunjuk untuk analisis target.
+
+Buat laporan dengan temuan lengkap.
+
+📦 Persyaratan
 Python 3.8+
 
-Internet connection
+Koneksi internet
 
-requests, python-whois, dnspython, beautifulsoup4, phonenumbers
+Pustaka Python: requests, python-whois, dnspython, beautifulsoup4, phonenumbers
 
-<div align="center">
-💫 Professional OSINT toolkit for the modern investigator
+<div align="center"> 💫 Toolkit OSINT profesional untuk penyelidik modern
 
-Built with ❤️ by Paan
+Dibangun dengan ❤️ oleh Paan
 
 </div>
-⚠️ Disclaimer: Use only for authorized investigations and legal purposes. Users are responsible for complying with local laws and regulations.
 
+⚠️ Disclaimer: Gunakan hanya untuk investigasi yang sah dan tujuan legal. Pengguna bertanggung jawab untuk mematuhi hukum dan peraturan setempat.
