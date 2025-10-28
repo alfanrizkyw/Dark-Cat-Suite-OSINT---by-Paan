@@ -44,3 +44,4 @@ We group over 22 advanced tools into five main categories for structured and com
 Use the Dark Cat OSINT Suite only for legitimate investigations, authorized penetration testing, and educational purposes. Users are solely responsible for compliance with all local laws and regulations when using this tool.
 
 <div align="center"> Made by Paan 🖤 </div>
+--- 
