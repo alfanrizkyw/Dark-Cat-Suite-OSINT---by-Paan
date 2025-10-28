@@ -48,9 +48,8 @@ pip install -r requirements.txt
 4. Jalankan Suite
 Akses menu interaktif 22+ alat.
 
-Bash
-
 python dark_cat_osint.py
+
 Catatan: Setelah dijalankan, Anda akan dipandu melalui menu pilihan alat untuk memasukkan target analisis Anda (Domain, IP, Email, dll.).
 
 🔒 Disclaimer
