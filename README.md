@@ -29,27 +29,52 @@ Kami mengelompokkan 22+ alat canggih menjadi lima kategori utama untuk analisis 
 
 ---
 
-## 🚀 Panduan Penggunaan Singkat
+🚀 Panduan Instalasi & Eksekusi Dark-Cat-Suite-OSINT
+Pastikan Anda memiliki koneksi internet yang stabil dan Git serta Python 3.8+ sudah terinstal di sistem Anda.
 
-Mulailah dengan Dark Cat dalam tiga langkah cepat.
+Tahap 1: Kloning Repositori (Mengambil Kode)
+Buka Command Prompt (CMD):
 
-### 1. Kloning Repositori
+Kloning Repositori: Gunakan perintah git clone untuk mengunduh seluruh proyek ke komputer Anda.
 
-git clone [https://github.com/alfanrizkyw/Dark-Cat-Suite-OSINT---by-Paan.git](https://github.com/alfanrizkyw/Dark-Cat-Suite-OSINT---by-Paan.git)
+Bash
+
+git clone https://github.com/alfanrizkyw/Dark-Cat-Suite-OSINT---by-Paan.git
+Masuk ke Direktori Proyek: Ganti direktori kerja Anda ke folder proyek yang baru diunduh.
+
+Bash
 
 cd Dark-Cat-Suite-OSINT---by-Paan
+Pastikan prompt CMD Anda sekarang menunjukkan jalur yang berakhir dengan ...Dark-Cat-Suite-OSINT---by-Paan> .
 
-### 2. Instal Dependensi
-Pastikan Anda menggunakan Python 3.8+.
+Tahap 2: Instalasi Dependensi (Persyaratan)
+Ini adalah langkah krusial. Kita perlu memastikan semua modul Python yang dibutuhkan oleh alat ini terinstal.
+
+Verifikasi Python 3: Pastikan Anda menggunakan Python 3.8 atau yang lebih baru.
+
+Bash
+
+python --version
+(Jika perintah di atas gagal, coba py -3 --version atau pastikan Python ada di PATH Anda.)
+
+Instal Dependensi: Jalankan perintah berikut untuk menginstal semua modul dari file requirements.txt.
+
+Bash
 
 pip install -r requirements.txt
+(Jika Anda memiliki masalah dengan versi Python, coba gunakan pip3 install -r requirements.txt.)
 
-### 3. Jalankan Suite
-Akses menu interaktif 22+ alat.
+⚠️ Catatan Penting: Perhatikan jika ada pesan error berwarna merah selama proses ini (misalnya, terkait dengan "failed building wheel"). Ini berarti ada dependensi yang tidak dapat diinstal. Jika itu terjadi, Anda mungkin perlu menginstal Visual C++ Build Tools dari Microsoft.
+
+Tahap 3: Menjalankan Suite OSINT
+Eksekusi Skrip Utama: Pastikan Anda masih berada di dalam direktori proyek (Dark-Cat-Suite-OSINT---by-Paan).
+
+Bash
 
 python dark_cat_osint.py
+(Jika python gagal, coba ganti dengan python3 atau py tergantung konfigurasi sistem Anda.)
 
-Catatan: Setelah dijalankan, Anda akan dipandu melalui menu pilihan alat untuk memasukkan target analisis Anda (Domain, IP, Email, dll.).
+Akses Menu: Jika berhasil, Anda akan melihat menu interaktif dengan 22+ alat yang tersedia.
 
 🔒 Disclaimer
 Gunakan Dark Cat OSINT Suite hanya untuk investigasi yang sah, penetration testing yang berizin, dan tujuan pendidikan. Pengguna bertanggung jawab penuh atas kepatuhan terhadap semua hukum dan peraturan lokal saat menggunakan alat ini.
