@@ -22,8 +22,9 @@ Dark Cat OSINT Suite is an advanced digital intelligence platform designed for i
 1. Download dark_cat.py (RAW)
 2. Extract the file
 3. Open in VS Code
-4. Run/F5
-5. Finish
+4. Open Terminal & Input -- pip install colorama requests python-whois dnspython beautifulsoup4 phonenumbers urllib3
+5. Run/F5
+6. Finish
 
 ---
 
